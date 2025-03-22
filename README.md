@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my on projects.<br>I'm looking to collaborate with other developers.<br>I'm currently learning python.<br>I'm open for jobs and new opportunities. 
+I'm currently working on my on projects.<br>I'm looking to collaborate with other developers.<br>I'm open for jobs and new opportunities. 
 
 
 ## 🌐 Socials:
