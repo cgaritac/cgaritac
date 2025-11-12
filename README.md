@@ -1,4 +1,4 @@
-Hi, I'm Carlos Garita
+# Hi, I'm Carlos Garita
 
 💻 Full Stack Developer.  
 🚀 Passionate about building scalable apps using clean architecture and cloud technologies.  
