@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=cgaritac&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cgaritac&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=cgaritac&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgaritac&layout=compact&theme=tokyonight)
 
 ---
