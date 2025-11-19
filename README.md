@@ -65,6 +65,11 @@
 
 ---
 
+## 📊 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel149afonso&theme=react-dark&area=true&hide_border=true)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
