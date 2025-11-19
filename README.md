@@ -66,7 +66,7 @@
 ---
 
 ## 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel149afonso&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgaritac&theme=react-dark&area=true&hide_border=true)
 
 ---
 
