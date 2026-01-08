@@ -59,6 +59,10 @@
 ![](https://streak-stats.demolab.com/?user=cgaritac&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgaritac&layout=compact&theme=tokyonight)
 
+### 📊 GitHub Stats2
+![](https://github-readme-stats.vercel.app/api?username=cgaritac&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgaritac&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 ---
 
 ## 🏆 GitHub Trophies
