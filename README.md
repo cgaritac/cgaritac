@@ -55,15 +55,9 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=cgaritac&show_icons=true&theme=tokyonight)
-![](https://streak-stats.demolab.com/?user=cgaritac&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgaritac&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cgaritac&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-readme-streak-stats-salesp07.vercel.app/?user=cgaritac&count_private=true&theme=react&border_radius=10)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=cgaritac&theme=react&show_icons=true&count_private=true&border_radius=10)
+  
 ---
 
 ## 📊 GitHub Activity
