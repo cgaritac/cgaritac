@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Stats
 ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=cgaritac&count_private=true&theme=react&border_radius=10)
-&nbsp;&nbsp;
+&nbsp;
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=cgaritac&theme=react&show_icons=true&count_private=true&border_radius=10)
   
 ---
