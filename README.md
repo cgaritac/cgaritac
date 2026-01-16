@@ -60,6 +60,8 @@
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=cgaritac&theme=react&show_icons=true&count_private=true&border_radius=10)
   
 ---
+---
+---
 
 ## 📊 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgaritac&theme=react-dark&area=true&hide_border=true)
