@@ -48,9 +48,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🧠 [PACE Frontend](https://github.com/cgaritac/FactorK) — Performance evaluation app (React + Azure)
-- ⚙️ [PACE Backend](https://github.com/cgaritac/FactorK.Beats.Api) — Performance evaluation service (.NET + Azure)
-- 💬 [UI Library](https://github.com/cgaritac/FactorK.Kudos.Api) — UI components library (Storybook)
+- [AI PR Reviewer](https://github.com/cgaritac/FactorK.Kudos.Api) — AI Pull Requests Reviewer (.Net + GithubApps + OpenAI)
+- [PACE Frontend](https://github.com/cgaritac/FactorK) — Performance evaluation app (React + Azure)
+- [PACE Backend](https://github.com/cgaritac/FactorK.Beats.Api) — Performance evaluation service (.NET + Azure)
+- [UI Library](https://github.com/cgaritac/FactorK.Kudos.Api) — UI components library (Storybook)
 
 ---
 
