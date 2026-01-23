@@ -48,10 +48,11 @@
 ---
 
 ### 🚀 Featured Projects
-- [AI PR Reviewer](https://github.com/cgaritac/FactorK.Kudos.Api) — AI Pull Requests Reviewer (.Net + GithubApps + OpenAI)
-- [PACE Frontend](https://github.com/cgaritac/FactorK) — Performance evaluation app (React + Azure)
-- [PACE Backend](https://github.com/cgaritac/FactorK.Beats.Api) — Performance evaluation service (.NET + Azure)
-- [UI Library](https://github.com/cgaritac/FactorK.Kudos.Api) — UI components library (Storybook)
+- [AI PR Reviewer](https://github.com/cgaritac/ai-pr-reviewer) — AI Pull Requests Reviewer (.Net + GithubApps + OpenAI)
+- [UI Library](https://github.com/cgaritac/ui_library) — UI components library (Storybook)
+- [n8n Workflows](https://github.com/cgaritac/n8n_processes) — Several automation workflows (n8n)
+- [PACE Frontend](https://github.com/cgaritac/performance_evaluation_system_FE) — Performance evaluation app (React + Azure)
+- [PACE Backend](https://github.com/cgaritac/performance_evaluation_system_BE) — Performance evaluation service (.NET + Azure)
 
 ---
 
