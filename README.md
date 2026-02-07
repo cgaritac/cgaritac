@@ -52,7 +52,8 @@
 - [UI Library](https://github.com/cgaritac/ui_library) — UI components library (Storybook)
 - [n8n Workflows](https://github.com/cgaritac/n8n_processes) — Several automation workflows (n8n)
 - [PACE Frontend](https://github.com/cgaritac/performance_evaluation_system_FE) — Performance evaluation app (React + Azure)
-- [PACE Backend](https://github.com/cgaritac/performance_evaluation_system_BE) — Performance evaluation service (.NET + Azure)
+- [PACE API](https://github.com/cgaritac/performance_evaluation_system_BE) — Performance evaluation service (.NET + Azure + MySql)
+- [Service Booking API](https://github.com/cgaritac/booking-system-api) — API to book services (Spring-Boot + Postgres) 
 
 ---
 
