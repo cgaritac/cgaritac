@@ -49,12 +49,13 @@
 
 ### 🚀 Featured Projects
 - [AI PR Reviewer](https://github.com/cgaritac/ai-pr-reviewer) — AI Pull Requests Reviewer (.Net + GithubApps + OpenAI)
-- [Radio_Station](https://github.com/cgaritac/radio_station_web) - Radio Station Webpage (Angular + Tailwind)
+- [Radio_Station](https://github.com/cgaritac/radio_station_web) — Radio Station Webpage (Angular + Tailwind)
 - [UI Library](https://github.com/cgaritac/ui_library) — UI components library (Storybook)
 - [n8n Workflows](https://github.com/cgaritac/n8n_processes) — Several automation workflows (n8n)
 - [PACE Frontend](https://github.com/cgaritac/performance_evaluation_system_FE) — Performance evaluation app (React + Azure)
 - [PACE API](https://github.com/cgaritac/performance_evaluation_system_BE) — Performance evaluation service (.NET + Azure + MySql)
-- [Service Booking API](https://github.com/cgaritac/booking-system-api) — API to book services (Spring-Boot + Postgres) 
+- [Service Booking API](https://github.com/cgaritac/booking-system-api) — API to book services (Spring-Boot + PostgreSQL)
+- [Inventory_Service_API](https://github.com/cgaritac/inventory-service-api) — API to manage a product inventory (Django + PostgreSQL)
 
 ---
 
